@@ -1,0 +1,16 @@
+.car-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .car-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  

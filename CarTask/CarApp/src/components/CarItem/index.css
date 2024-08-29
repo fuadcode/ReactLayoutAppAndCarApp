@@ -1,0 +1,21 @@
+.car-item input {
+    margin-right: 10px;
+  }
+  
+  .car-item button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .car-item button:first-of-type {
+    background-color: #f44336; 
+  }
+  
+  .car-item button:last-of-type {
+    background-color: #2196f3; 
+  }
+  

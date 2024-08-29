@@ -1,0 +1,17 @@
+.car-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .car-form input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .car-form button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
